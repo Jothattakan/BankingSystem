@@ -11,4 +11,6 @@ Balance check: Users can view current balance.
 Logout: Users can log out in the bank account.
 Exit: Users can exit the program.
 
-# Link to the video presentation of the program
+## **Code Stracture**
+
+## Link to the video presentation of the program
