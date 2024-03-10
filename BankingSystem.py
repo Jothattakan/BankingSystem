@@ -94,11 +94,11 @@ def main():  # creating dictionary for to store account information
                         break
                     else:
                         print("Invalid option")
-            elif choice == "3":
-                print("Thank you for using the Banking System.")
-                break
-            else:
-                print("Invalid Choice, try again")
+        elif choice == "3":
+            print("Thank you for using the Banking System.")
+            break
+        else:
+            print("Invalid Choice, try again")
 
 
 main()
