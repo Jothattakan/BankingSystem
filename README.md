@@ -15,11 +15,11 @@ Exit: Users can exit the program.
 
  **Code Stracture**
 
- For the video description please click the link https://drive.google.com/drive/u/0/home
-
 This program is organised to perform each banking operation. The user details are stored into the dictionary and the user can login to the account by entering account number and PIN for the security and perform all basic banking operations and also view the current balance.
 
  **Link to the video presentation of the program**
+
+ For the video description please click the link https://drive.google.com/drive/u/0/home
 
 **Note**
 
